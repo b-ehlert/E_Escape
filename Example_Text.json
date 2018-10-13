@@ -1,0 +1,27 @@
+{
+    "Title":"TODO",
+    "Description":"TODO",
+    "Instructions":"TODO",
+    "Directions":{
+        "Forward":{
+            "Description":"You looked forward",
+            "Objects":{
+                "Mirror":{
+                    "Description":"You looked at the mirror...",
+                    "Use_item":[]
+                },
+                "Bed":{
+                    "Description":"You looked under the bed and found a file",
+                    "Received_item":"File",
+                    "Use_item":{"File":"Bed"}
+                }
+            }
+        },
+        "Left":{
+        
+        },
+        "Right":{
+        
+        }
+    }
+}
