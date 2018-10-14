@@ -1,3 +1,3 @@
 import json
-with open('other.json','r') as f:
+with open('Example_Text.json','r') as f:
     print json.load(f)
